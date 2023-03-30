@@ -1,4 +1,5 @@
 ||supercell.com^
+||clashroyaleapp.com^
 ||supercell.net^
 ||clashroyale.com^
 ||chess.com^
