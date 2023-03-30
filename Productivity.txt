@@ -1,0 +1,5 @@
+||supercell.com^
+||supercell.net^
+||chess.com^
+||lichess.com^
+||lichess.org^
