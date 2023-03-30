@@ -2,6 +2,7 @@
 ||clashroyaleapp.com^
 ||supercell.net^
 ||clashroyale.com^
+||clashroyaleapp.com^
 ||chess.com^
 ||lichess.com^
 ||lichess.org^
